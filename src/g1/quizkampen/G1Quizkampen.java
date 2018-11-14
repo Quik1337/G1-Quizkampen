@@ -4,6 +4,6 @@ public class G1Quizkampen
 {
     public static void main(String[] args)
     {
-        
+        //Albin was here!
     }
 }
